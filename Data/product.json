@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "iphone kupi",
+    "price": 300000,
+    "cate_id": 1,
+    "image": "https://www.techone.vn/wp-content/uploads/2026/09/iphone-18promax-digitalmat-gallery-5-202609.jpg"
+  },{
+    "id": 2,
+    "name": "iphone 18",
+    "price": 300000,
+    "cate_id": 1,
+    "image": "https://www.techone.vn/wp-content/uploads/2026/09/iphone-18promax-digitalmat-gallery-5-202609.jpg"
+},{
+    "id": 3,
+    "name": "iphone 17",
+    "price": 300000,
+    "cate_id": 1,
+    "image": "https://www.techone.vn/wp-content/uploads/2026/09/iphone-18promax-digitalmat-gallery-5-202609.jpg"
+},{
+    "id": 4,
+    "name": "Laptop abcd",
+    "price": 10000000,
+    "cate_id": 2,
+    "image": "https://cdn2.fptshop.com.vn/unsafe/360x0/filters:format(webp):quality(75)/00930377_lenovo_ideapad_slim_3_16iwc11_01_dae1811782.png"
+},{
+    "id": 5,
+    "name": "Samsung Galaxy s27",
+    "price": 400000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s26-ultra.jpg"
+},{
+    "id": 6,
+    "name": "Combo Galaxy",
+    "price": -100000,
+    "cate_id": 1,
+    "image": "https://media.assettype.com/gulfnews%2F2026-02-03%2Fnr346q8n%2FS26-Ultra.jpeg?w=480&auto=format%2Ccompress&fit=max"
+},{
+    "id": 7,
+    "name": "Tablet internet",
+    "price": 100,
+    "cate_id": 3,
+    "image": "https://cdn2.fptshop.com.vn/unsafe/512x0/filters:format(webp):quality(75)/lenovo_tab_101_wifi_xam_6_1fc8b3efd3.png"
+}
+
+]
