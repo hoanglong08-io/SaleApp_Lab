@@ -11,6 +11,16 @@
                     <a class="nav-link" href="/?cate_id={{c.id}}">{{c.name}}</a>
                 </li>
                 {%endfor%}
+
+                {% if session.get('username') %}
+                <li class="nav-item">
+                    <a class="nav-link" href="/logout">&#9728 Dang Xuat</a>
+                </li>
+                {%else%}
+                <li class="nav-item">
+                    <a class="nav-link" href="/login">&#127942 Dang nhap</a>
+                </li>
+                {%endif%}
             </ul>
             <form class="d-flex">
                 <input class="form-control me-2" type="text" placeholder="Nhập từ khóa..." name="q">
